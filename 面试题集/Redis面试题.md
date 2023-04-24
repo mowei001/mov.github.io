@@ -8,20 +8,7 @@
 
 祝愿每一位有追求的Java开发同胞都能进大厂拿高薪！
 
-## QQ群
 
-Java架构交流QQ群：**930254941**  （备注一下GitHub，免得被认成打无良广告的）
-
-快捷加群方式：[点击此处加入群聊Java架构交流群](https://jq.qq.com/?_wv=1027&k=Xu0ju5PW)
-
-![](https://upload-images.jianshu.io/upload_images/11474088-f15f3310f6b7610f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
->PS：
->
->>平常很忙，找小夕小姐姐领取就好了，免费获取的！
-
-![](https://upload-images.jianshu.io/upload_images/11474088-d4fa503624f05687.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 作为一个后端开发人员，不只是要求开发人员需要掌握 Redis，也要求运维人员也要懂 Redis。由于 Redis 的运用广泛，我们也知道它的重要性，至此面试中经常被问到。
 **用XMind画了一张导图记录Redis的学习笔记和一些面试解析及视频链接（源文件对部分节点有详细备注和参考资料，欢迎关注我的公众号：以Java架构赢天下 后台发送【Redis】拿下载链接，已经完善更新）：**
